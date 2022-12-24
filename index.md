@@ -160,7 +160,7 @@ https://wikiwiki.jp/ffdic/%E3%82%BB%E3%83%AA%E3%83%95/%E3%80%90%E3%81%99%E3%82%8
 娘なのに「キング」とはこれ如何に。
 あと瞳が美しい（語尾の話どこ行った）
 
-<div style="text-align: center;">
+<div align="center">
  <img src="img/king_halo.PNG" width=300>
  <img src="img/king_halo1.PNG" width=300>
 
